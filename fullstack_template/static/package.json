@@ -1,0 +1,23 @@
+{
+  "name": "oscarnoms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erintherad/oscarnoms.git"
+  },
+  "keywords": [
+    "oscar",
+    "movies"
+  ],
+  "author": "Erin Mahoney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erintherad/oscarnoms/issues"
+  },
+  "homepage": "https://github.com/erintherad/oscarnoms#readme"
+}
