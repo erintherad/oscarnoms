@@ -1,2 +1,8 @@
 node_modules
 dist
+bin
+
+.Python
+pip-selfcheck.json
+include
+lib
