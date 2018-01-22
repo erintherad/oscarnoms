@@ -24,6 +24,12 @@
     ],
     "author": "Erin Mahoney",
     "license": "MIT",
+    "babel": {
+        "presets": [
+            "es2015",
+            "react"
+        ]
+    },
     "bugs": {
         "url": "https://github.com/erintherad/oscarnoms/issues"
     },
