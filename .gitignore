@@ -6,3 +6,6 @@ bin
 pip-selfcheck.json
 include
 lib
+
+npm-debug.log
+.DS_Store
