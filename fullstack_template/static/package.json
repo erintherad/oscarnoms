@@ -1,40 +1,42 @@
 {
-    "name": "oscarnoms",
-    "version": "1.0.0",
-    "description": "An oscar nom and nomination app",
-    "main": "index.js",
-    "scripts": {
-        "build": "webpack -p --progress --config webpack.config.js",
-        "dev-build": "webpack --progress -d --config webpack.config.js",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "watch": "webpack --progress -d --config webpack.config.js --watch"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/erintherad/oscarnoms.git"
-    },
-    "keywords": [
-        "oscar",
-        "movies",
-        "fullstack",
-        "python",
-        "react",
-        "npm",
-        "webpack"
-    ],
-    "author": "Erin Mahoney",
-    "license": "MIT",
-    "babel": {
-        "presets": [
-            "es2015",
-            "react"
-        ]
-    },
-    "bugs": {
-        "url": "https://github.com/erintherad/oscarnoms/issues"
-    },
-    "homepage": "https://github.com/erintherad/oscarnoms#readme",
-    "devDependencies": {
-        "webpack": "^3.10.0"
-    }
+  "name": "oscarnoms",
+  "version": "1.0.0",
+  "description": "An oscar nom and nomination app",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -p --progress --config webpack.config.js",
+    "dev-build": "webpack --progress -d --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --progress -d --config webpack.config.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erintherad/oscarnoms.git"
+  },
+  "keywords": [
+    "oscar",
+    "movies",
+    "fullstack",
+    "python",
+    "react",
+    "npm",
+    "webpack"
+  ],
+  "author": "Erin Mahoney",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/erintherad/oscarnoms/issues"
+  },
+  "homepage": "https://github.com/erintherad/oscarnoms#readme",
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0"
+  }
 }
