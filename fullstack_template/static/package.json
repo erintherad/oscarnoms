@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/erintherad/oscarnoms/issues"
   },
-  "homepage": "https://github.com/erintherad/oscarnoms#readme"
+  "homepage": "https://github.com/erintherad/oscarnoms#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
 }
